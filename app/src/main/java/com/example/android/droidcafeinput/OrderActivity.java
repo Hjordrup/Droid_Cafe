@@ -1,4 +1,4 @@
-package com.example.android.droidcafe;
+package com.example.android.droidcafeinput;
 
 import androidx.appcompat.app.AppCompatActivity;
 
